@@ -1,4 +1,4 @@
-# Aprenda como selecionar Features para seu Modelo de Machine Learning
+# Aprenda como selecionar `Features` para seu Modelo de Machine Learning
 
 ![image](https://user-images.githubusercontent.com/63373520/141599584-39d11de6-dcab-4c6f-96aa-c754dc3a2370.png)
 - Fonte: https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/

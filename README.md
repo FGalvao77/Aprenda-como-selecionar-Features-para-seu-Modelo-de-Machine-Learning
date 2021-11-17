@@ -13,5 +13,7 @@ _A maldição da dimensionalidade ocorre porque a densidade do conjunto de dados
 
 Quando continuamos adicionando features sem aumentar o número de amostras do dataset de treinamento, a dimensionalidade do espaço de features aumenta e se torna cada vez mais esparsa. Devido a essa dispersão, torna-se muito mais fácil encontrar uma solução “perfeita” para o modelo de aprendizado de máquina, o que muito provavelmente leva ao problema do overfitting.
 
+Segue o link do [notebook](https://bit.ly/3HuaTnK).
+
 
 
